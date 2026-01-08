@@ -1,1 +1,1 @@
-This is my Local Repo
+This project is a simple Password Generator built using Python. It creates strong and secure passwords using a mix of letters, numbers, and special characters. The program helps users generate random passwords to improve security and protect personal information. This project was developed as part of my internship task to practice Python programming and basic security concepts.
