@@ -1,1 +1,1 @@
-This repository contains a Python-based password generator that creates secure and random passwords using a mix of uppercase, lowercase, numbers, and special characters. The program allows users to specify the password length and ensures strong password creation for better online security.
+
