@@ -90,8 +90,8 @@ My toolkit is continuously evolving as I explore new technologies and deepen my 
 <!-- TODO: Add your certifications, courses, achievements -->
 - 🏆 **[Programming in Modern C++ Certification]** from [NPTEL]
 - 📜 **[Problem Solving through Programming in C Certificate]** from [NPTEL]
-  🏆 **[SQL(Intermediate)]** from [HackerRank]
-  🏆 **[SQL(Basic)]** from [HackerRank]
+- 🏆 **[SQL(Intermediate)]** from [HackerRank]
+- 🏆 **[SQL(Basic)]** from [HackerRank]
 - 🥇 Actively solving **Competitive Programming Questions** on platforms like LeetCode,HackerRank
 
 
