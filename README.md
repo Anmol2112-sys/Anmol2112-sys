@@ -77,30 +77,7 @@ My toolkit is continuously evolving as I explore new technologies and deepen my 
 <!--END_SECTION:activity-->
 
 ## 🏗️ Featured Projects
-
-Here are a few projects I'm proud of, showcasing my skills and interests:
-
-<div align="center">
-
-### 🌟 [E-commerce Web Application](https://github.com/Anmol2112-sys/your-ecommerce-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol2112-sys&repo=your-ecommerce-repo&theme=tokyonight)](https://github.com/Anmol2112-sys/your-ecommerce-repo)
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB
-**Status:** 🚧 In Development | ⭐ 0 Stars | 🍴 0 Forks
-*A full-stack e-commerce platform featuring user authentication, product listings, and a shopping cart system. Focuses on intuitive UI and scalable backend design.*
-
----
-
-### 🔥 [Algorithm Visualizer](https://github.com/Anmol2112-sys/your-algo-visualizer-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol2112-sys&repo=your-algo-visualizer-repo&theme=tokyonight)](https://github.com/Anmol2112-sys/your-algo-visualizer-repo)
-
-**Tech Stack:** Python • JavaScript • HTML/CSS
-**Status:** ✅ Complete | ⭐ 0 Stars | 🍴 0 Forks
-*An interactive tool to visualize various sorting and pathfinding algorithms, making complex concepts easy to understand through animation.*
-
----
-
-### ⚡ [C++ Data Structures Library](https://github.com/Anmol2112-sys/your-cpp-dsa-repo) <!-- TODO: Replace with actual project -->
+### ⚡ [C++ Contact Support Management](https://github.com/Anmol2112-sys/your-cpp-dsa-repo) <!-- TODO: Replace with actual project -->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmol2112-sys&repo=your-cpp-dsa-repo&theme=tokyonight)](https://github.com/Anmol2112-sys/your-cpp-dsa-repo)
 
 **Tech Stack:** C++
@@ -120,7 +97,7 @@ Here are a few projects I'm proud of, showcasing my skills and interests:
 
 ## 🎯 My Goals for 2024
 <!-- TODO: Update with your current year goals -->
-- 💻 C++ Projects: Completed 2 C++ projects focusing on DSA and problem-solving skills.
+💻 C++ Projects: Completed 2 C++ projects focusing on DSA and problem-solving skills.
 
 🐍 Python Projects: Developed 2 Python projects applying data manipulation, analysis, and visualization techniques.
 
