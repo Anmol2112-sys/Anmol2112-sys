@@ -35,6 +35,9 @@ My toolkit is continuously evolving as I explore new technologies and deepen my 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xampp](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 <!-- TODO: Add your cloud/devops tools -->
 
 ### 🗄️ Databases
@@ -108,17 +111,24 @@ Here are a few projects I'm proud of, showcasing my skills and interests:
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
-- 🏆 **[C++ Programming Certification]** from [Platform/Institution]
-- 📜 **[Web Development Bootcamp Certificate]** from [Platform/Institution]
-- 🥇 Actively participating in **Competitive Programming** contests
-- 📊 Completed **[Data Structures & Algorithms Specialization]** on Coursera
+- 🏆 **[Programming in Modern C++ Certification]** from [NPTEL]
+- 📜 **[Problem Solving through Programming in C Certificate]** from [NPTEL]
+  🏆 **[SQL(Intermediate)]** from [HackerRank]
+  🏆 **[SQL(Basic)]** from [HackerRank]
+- 🥇 Actively solving **Competitive Programming Questions** on platforms like LeetCode,HackerRank
+
 
 ## 🎯 My Goals for 2024
 <!-- TODO: Update with your current year goals -->
-- 🚀 Contribute to 5+ open source projects
-- 📚 Master a modern frontend framework (e.g., React or Vue.js)
-- 🌟 Build and deploy 3 full-stack web applications
-- 📝 Participate in more hackathons and coding challenges
+- 💻 C++ Projects: Completed 2 C++ projects focusing on DSA and problem-solving skills.
+
+🐍 Python Projects: Developed 2 Python projects applying data manipulation, analysis, and visualization techniques.
+
+📊 Data Analytics Experience: Successfully completed a 2-month internship in Data Analytics, working with real datasets and SQL queries.
+
+🌱 Continuous Learning: Actively improving skills in Python, SQL, and C++, while exploring advanced data analytics techniques.
+
+🚀 Future Contributions: Planning to build more analytics projects, open-source contributions, and collaborative coding projects.
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -126,33 +136,30 @@ I'm always open to discussing new ideas, collaborating on projects, or simply co
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-aditya-23a71a276)
+[![LeetCode](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/
+anmoladitya)
+[![HackerRank](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/
+anmoladitya0255)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email -->
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.anmoladitya0255@.com)
+<!-- TODO: Add your LinkedIn -->
+<!-- TODO: Add your Twitter -->
+
+ <!-- TODO: Add your email -->
+ <!-- TODO: Add your blog -->
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/Anmol2112-sys?style=social)](https://github.com/Anmol2112-sys)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
+[![LinkedIn followers](https://img.shields.io/github/followers/Anmol2112-sys?style=social)](https://www.linkedin.com/in/anmol-aditya-23a71a276)
+
+ <!-- TODO: Add your Twitter handle -->
 
 </div>
 
 ---
 
-## ☕ Support My Work
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Anmol2112-sys) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
-
-</div>
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects and continue my learning journey!</i></sub>
