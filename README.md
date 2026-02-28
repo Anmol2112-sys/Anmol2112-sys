@@ -1,24 +1,266 @@
-# 💫 About Me:
-I am Anmol Aditya, a passionate and dedicated technology enthusiast currently strengthening my programming and problem-solving skills through C++ with Data Structures and Algorithms (DSA) while simultaneously exploring Python and SQL for Data Analytics. I enjoy building logic-driven solutions, understanding algorithmic efficiency, and implementing optimized approaches to solve real-world computational problems. My focus in C++ and DSA is to develop strong fundamentals in software development, competitive programming, and system-level problem solving.<br><br>Alongside this, I am actively working on data analytics concepts using Python and SQL, where I explore data manipulation, data visualization, and analytical techniques to extract meaningful insights from datasets. I am particularly interested in bridging software development with data-driven decision making, which allows me to develop both analytical and programming expertise in parallel.<br><br>I continuously work on improving my technical skills by building projects, practicing coding challenges, and learning new technologies that enhance my development and analytical capabilities. I am highly motivated to contribute to impactful projects, collaborate with teams, and take on challenging tasks that help me grow as a developer and data analyst. I am currently seeking opportunities and roles where I can apply my knowledge, contribute to innovative solutions, and gain industry-level experience while expanding my technical and problem-solving abilities.
+# 👋 Hey there! I'm Anmol
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eccqZxdb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-aditya-23a71a276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anmoladitya0255@gmail.com) 
+![Profile Views](https://komarev.com/ghpvc/?username=Anmol2112-sys&color=0E7792&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Anmol2112-sys?style=for-the-badge&color=0E7792)](https://github.com/Anmol2112-sys?tab=followers)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anmol2112-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anmol2112-sys&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2112-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Building innovative solutions | C++ Developer | Data Analyst | Full-Stack Developer**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anmol2112-sys&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anmol2112-sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+Hi! I'm **Anmol**, a passionate software developer with expertise in **C++**, **data analytics**, and **system design**. I specialize in building robust applications ranging from secure authentication systems to audio processing tools, while leveraging data science techniques to solve real-world problems in finance and healthcare.
+
+- 💻 Expert in C++ for system programming and performance-critical applications
+- 📊 Skilled in data analytics, predictive modeling, and machine learning
+- 🔐 Experienced with secure authentication and user management systems
+- 🔊 Proficient in audio programming and signal processing
+- 🤝 Open to collaboration on challenging projects
+- 📚 Advocate for clean, efficient, and maintainable code
+
+---
+
+## 🛠️ Technical Stack
+
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **Data Science & Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-11557C?style=flat-square&logo=python&logoColor=white)
+
+### **Frameworks & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### **Databases & Platforms**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anmol2112-sys&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2112-sys&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anmol2112-sys&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> Explore my portfolio showcasing C++ system design, secure authentication, audio processing, and advanced data analytics.
+
+---
+
+### 🔐 **C++ Login & Registration System**
+A comprehensive user management application featuring secure authentication, password validation, and database integration.
+
+**Tech Stack:** C++ • MySQL • Database Design • Security Best Practices
+
+**Highlights:**
+- ✨ Secure password hashing and validation
+- 🔐 Role-based access control
+- 💾 Persistent data storage with SQL
+- 🎯 User-friendly interface
+
+---
+
+### 🔊 **C++ Sound Synthesizer**
+A sophisticated audio processing application demonstrating digital signal processing and real-time audio synthesis.
+
+**Tech Stack:** C++ • Audio Libraries • DSP • Real-time Processing
+
+**Highlights:**
+- 🎵 Waveform generation (sine, square, sawtooth)
+- 📊 Frequency manipulation and modulation
+- 🎚️ Interactive user controls
+- 🔊 Real-time audio output
+
+---
+
+### 📞 **C++ Contact Support System**
+An intelligent customer support platform for managing inquiries, tracking issues, and providing automated responses.
+
+**Tech Stack:** C++ • Database Management • System Design
+
+**Highlights:**
+- 📧 Ticket creation and tracking
+- 🔄 Automated response generation
+- 👥 User support queue management
+- 📋 Issue categorization and prioritization
+
+---
+
+### 📊 **Credit Risk Modelling (Data Analytics)**
+End-to-end machine learning project predicting credit risk using statistical analysis and predictive modeling.
+
+**Tech Stack:** Python • Pandas • Scikit-Learn • Statistical Analysis
+
+**Highlights:**
+- 📈 Exploratory Data Analysis (EDA)
+- 🔍 Feature engineering and selection
+- 🤖 Multiple ML model implementations (Logistic Regression, Random Forest, etc.)
+- 📉 Model evaluation and performance metrics
+- 💡 Business insights and recommendations
+
+---
+
+### 🏥 **Healthcare Predictive Analysis**
+Advanced analytics project for predicting healthcare outcomes using machine learning on real-world medical data.
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
+
+**Highlights:**
+- 🏥 Data cleaning and preprocessing of medical datasets
+- 📊 Statistical analysis and visualization
+- 🧬 Predictive modeling for patient outcomes
+- 🎯 Classification and regression models
+- 📋 Clinical insights and recommendations
+
+---
+
+## 💡 Core Competencies
+
+### System Programming (C++)
+- ✅ Object-oriented design and implementation
+- ✅ Memory management and optimization
+- ✅ Secure system architecture
+- ✅ Audio and signal processing
+- ✅ Real-time application development
+
+### Data Analytics & Machine Learning
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Feature engineering and selection
+- ✅ Predictive modeling and forecasting
+- ✅ Classification and regression models
+- ✅ Data visualization and insights
+
+### Full-Stack Development
+- ✅ Frontend development with HTML/CSS/JavaScript
+- ✅ Backend development with Node.js & Express
+- ✅ Database design and optimization
+- ✅ API development and integration
+- ✅ Authentication and security systems
+
+### Software Engineering
+- ✅ Clean code principles
+- ✅ Design patterns and best practices
+- ✅ Git version control and collaboration
+- ✅ Debugging and optimization
+- ✅ Technical documentation
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- 🔍 Advanced C++ optimization techniques
+- 🤖 Deep Learning and Neural Networks
+- ☁️ Cloud deployment and scalability
+- 🔐 Cybersecurity and cryptography
+- 📈 Advanced statistical methods
+- 🎯 System design and architecture
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Solve 500+ LeetCode problems
+- [ ] Contribute to 15+ open-source projects
+- [ ] Build and publish 5 major projects
+- [ ] Write 12+ technical blog articles
+- [ ] Complete advanced certifications
+- [ ] Achieve 500+ GitHub followers
+- [ ] Mentor junior developers and aspiring engineers
+- [ ] Publish research on data analytics applications
+
+---
+
+## 💬 Let's Connect!
+
+I'm always interested in connecting with developers, data scientists, and tech enthusiasts. Whether it's collaboration on interesting projects, discussing new technologies, or exploring innovative ideas, I'm here to help!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-aditya-23a71a276)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anmoladitya/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/anmoladitya0255)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoladitya0255@gmail.com)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Anmol2112-sys&theme=react-dark&hide_border=true)
+
+---
+
+## 🏆 Key Achievements
+
+- 💻 Developed multiple production-ready C++ applications
+- 📊 Implemented end-to-end machine learning pipelines
+- 🔐 Built secure authentication and user management systems
+- 🎵 Created audio processing and synthesis tools
+- 📈 Delivered impactful data analytics projects in finance and healthcare
+- 🌟 Active contributor on LeetCode and HackerRank
+
+---
+
+## 🤝 Open Source Contributions
+
+I actively contribute to the open-source community and am always looking for interesting projects to collaborate on:
+
+- Contributions to data science and C++ projects
+- Community support and code reviews
+- Documentation and knowledge sharing
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+
+**Have a project idea? Let's collaborate!**
+
+Feel free to reach out for:
+- 💼 Freelance/Contract work
+- 🤝 Open-source collaboration
+- 💡 Project ideas and feedback
+- 📧 General inquiries and networking
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, please give my repositories a star!
+
+**Happy coding! 🚀**
+
+
+</div>
