@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-Hi! I'm **Anmol**, a passionate student with expertise in **C++**, **data engineer**. I specialize in building robust applications ranging from secure authentication systems to audio processing tools, while leveraging data analytics techniques to solve real-world problems.
+Hi! I'm **Anmol**, a passionate student with expertise in **C++**, **data engineering**. I specialize in building robust applications ranging from secure authentication systems to audio processing tools, while leveraging data analytics techniques to solve real-world problems.
 
 - 💻 Expert in C++ for system programming and performance-critical applications
 - 📊 Skilled in data analytics, predictive modeling, machine learning, and Amazon Web Services
