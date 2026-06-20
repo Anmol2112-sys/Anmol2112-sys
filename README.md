@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Anmol2112-sys&color=0E7792&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/Anmol2112-sys?style=for-the-badge&color=0E7792)](https://github.com/Anmol2112-sys?tab=followers)
 
-**Building innovative solutions | C++ Developer | Data Analyst 
+**Building innovative solutions | C++ Developer | Data Engineer 
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## 🎯 About Me
 
-Hi! I'm **Anmol**, a passionate student with expertise in **C++**, **data analytics**. I specialize in building robust applications ranging from secure authentication systems to audio processing tools, while leveraging data analytics techniques to solve real-world problems.
+Hi! I'm **Anmol**, a passionate student with expertise in **C++**, **data engineer**. I specialize in building robust applications ranging from secure authentication systems to audio processing tools, while leveraging data analytics techniques to solve real-world problems.
 
 - 💻 Expert in C++ for system programming and performance-critical applications
-- 📊 Skilled in data analytics, predictive modeling, and machine learning
+- 📊 Skilled in data analytics, predictive modeling, machine learning, and Amazon Web Services
 - 🔐 Experienced with secure authentication and user management systems
 - 🤝 Open to collaboration on challenging projects
 - 📚 Advocate for clean, efficient, and maintainable code
