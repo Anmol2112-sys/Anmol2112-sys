@@ -87,19 +87,6 @@ A comprehensive user management application featuring secure authentication, pas
 
 ---
 
-### 🔊 **C++ Sound Synthesizer**
-A sophisticated audio processing application demonstrating digital signal processing and real-time audio synthesis.
-
-**Tech Stack:** C++ • Audio Libraries • DSP • Real-time Processing
-
-**Highlights:**
-- 🎵 Waveform generation (sine, square, sawtooth)
-- 📊 Frequency manipulation and modulation
-- 🎚️ Interactive user controls
-- 🔊 Real-time audio output
-
----
-
 ### 📞 **C++ Contact Support System**
 An intelligent customer support platform for managing inquiries, tracking issues, and providing automated responses.
 
@@ -126,21 +113,6 @@ End-to-end machine learning project predicting credit risk using statistical ana
 - 💡 Business insights and recommendations
 
 ---
-
-### 🏥 **Healthcare Predictive Analysis**
-Advanced analytics project for predicting healthcare outcomes using machine learning on real-world medical data.
-
-**Tech Stack:** Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
-
-**Highlights:**
-- 🏥 Data cleaning and preprocessing of medical datasets
-- 📊 Statistical analysis and visualization
-- 🧬 Predictive modeling for patient outcomes
-- 🎯 Classification and regression models
-- 📋 Clinical insights and recommendations
-
----
-
 ## 💡 Core Competencies
 
 ### System Programming (C++)
@@ -159,19 +131,11 @@ Advanced analytics project for predicting healthcare outcomes using machine lear
 
 ### Full-Stack Development
 - ✅ Frontend development with HTML/CSS/JavaScript
-- ✅ Backend development with Node.js & Express
 - ✅ Database design and optimization
 - ✅ API development and integration
 - ✅ Authentication and security systems
 
-### Software Engineering
-- ✅ Clean code principles
-- ✅ Design patterns and best practices
-- ✅ Git version control and collaboration
-- ✅ Debugging and optimization
-- ✅ Technical documentation
 
----
 
 ## 🌱 Currently Learning & Exploring
 
@@ -184,16 +148,6 @@ Advanced analytics project for predicting healthcare outcomes using machine lear
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] Contribute to 15+ open-source projects
-- [ ] Build and publish 5 major projects
-- [ ] Write 12+ technical blog articles
-- [ ] Complete advanced certifications
-- [ ] Achieve 500+ GitHub followers
-
-
----
 
 ## 💬 Let's Connect!
 
@@ -216,36 +170,13 @@ I'm always interested in connecting with developers, data scientists, and tech e
 
 ---
 
-## 🏆 Key Achievements
-
-- 💻 Developed multiple production-ready C++ applications
-- 🔐 Built secure authentication and user management systems
-- 📈 Delivered impactful data analytics projects in finance and healthcare
-- 🌟 Active contributor on LeetCode and HackerRank
 
 ---
-
-## 🤝 Open Source Contributions
-
-I actively contribute to the open-source community and am always looking for interesting projects to collaborate on:
-
-- Contributions to data science and C++ projects
-- Community support and code reviews
-- Documentation and knowledge sharing
-
----
-
 ## 📞 Get In Touch
 
 <div align="center">
 
 **Have a project idea? Let's collaborate!**
-
-Feel free to reach out for:
-- 💼 Freelance/Contract work
-- 🤝 Open-source collaboration
-- 💡 Project ideas and feedback
-- 📧 General inquiries and networking
 
 </div>
 
