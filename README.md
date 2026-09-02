@@ -61,88 +61,13 @@ Hi! I'm **Anmol**, a passionate student with expertise in **C++**, **data engine
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-> Explore my portfolio showcasing C++ system design, secure authentication, audio processing, and advanced data analytics.
-
----
-
-### 🔐 **C++ Login & Registration System**
-A comprehensive user management application featuring secure authentication, password validation, and database integration.
-
-**Tech Stack:** C++ • MySQL • Database Design • Security Best Practices
-
-**Highlights:**
-- ✨ Secure password hashing and validation
-- 🔐 Role-based access control
-- 💾 Persistent data storage with SQL
-- 🎯 User-friendly interface
-
----
-
-### 📞 **C++ Contact Support System**
-An intelligent customer support platform for managing inquiries, tracking issues, and providing automated responses.
-
-**Tech Stack:** C++ • Database Management • System Design
-
-**Highlights:**
-- 📧 Ticket creation and tracking
-- 🔄 Automated response generation
-- 👥 User support queue management
-- 📋 Issue categorization and prioritization
-
----
-
-### 📊 **Credit Risk Modelling (Data Analytics)**
-End-to-end machine learning project predicting credit risk using statistical analysis and predictive modeling.
-
-**Tech Stack:** Python • Pandas • Scikit-Learn • Statistical Analysis
-
-**Highlights:**
-- 📈 Exploratory Data Analysis (EDA)
-- 🔍 Feature engineering and selection
-- 🤖 Multiple ML model implementations (Logistic Regression, Random Forest, etc.)
-- 📉 Model evaluation and performance metrics
-- 💡 Business insights and recommendations
-
----
-## 💡 Core Competencies
-
-### System Programming (C++)
-- ✅ Object-oriented design and implementation
-- ✅ Memory management and optimization
-- ✅ Secure system architecture
-- ✅ Audio and signal processing
-- ✅ Real-time application development
-
-### Data Analytics & Machine Learning
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Feature engineering and selection
-- ✅ Predictive modeling and forecasting
-- ✅ Classification and regression models
-- ✅ Data visualization and insights
-
-### Full-Stack Development
-- ✅ Frontend development with HTML/CSS/JavaScript
-- ✅ Database design and optimization
-- ✅ API development and integration
-- ✅ Authentication and security systems
-
-
-
 ## 🌱 Currently Learning & Exploring
 
 - 🔍 Advanced C++ optimization techniques
 - 🤖 Deep Learning and Neural Networks
 - ☁️ Cloud deployment and scalability
-- 🔐 Cybersecurity and cryptography
 - 📈 Advanced statistical methods
 - 🎯 System design and architecture
-
----
-
 
 ## 💬 Let's Connect!
 
