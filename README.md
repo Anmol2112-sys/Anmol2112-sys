@@ -36,6 +36,7 @@ Hi! I'm **Anmol**, a passionate student with expertise in **C++**, **data engine
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-11557C?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### **Frameworks & Tools**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -46,6 +47,26 @@ Hi! I'm **Anmol**, a passionate student with expertise in **C++**, **data engine
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### **Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### **Cloud and Amazon Web Services**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=awsglue&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+
+### **CS Fundamentals**
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=flat-square&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-333333?style=flat-square&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-1572B6?style=flat-square&logo=cisco&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
